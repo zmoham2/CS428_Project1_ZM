@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ClashFrontDown" size="1.000000 1.505017" />
+    <ImageTarget name="ClashBackj" size="1.000000 1.635057" />
+    <ImageTarget name="ClashFrontj" size="1.000000 1.694362" />
+    <ImageTarget name="clash" size="1.000000 1.529052" />
+  </Tracking>
+</QCARConfig>

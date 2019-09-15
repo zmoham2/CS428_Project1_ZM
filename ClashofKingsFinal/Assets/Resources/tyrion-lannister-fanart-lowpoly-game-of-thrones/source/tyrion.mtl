@@ -1,0 +1,20 @@
+newmtl lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tyrion_hair_d.jpg
+bump tyrion_hair_n.jpg -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks tyrion_hair_s.jpg
+newmtl lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tyrion_head_d.jpg
+bump tyrion_head_n.jpg -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks tyrion_head_s.jpg
