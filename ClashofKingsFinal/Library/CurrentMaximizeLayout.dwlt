@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 472}
   m_MaxSize: {x: 14000, y: 14022}
   vertical: 0
-  controlID: 72322
+  controlID: 81716
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -130,7 +130,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 472}
   m_MaxSize: {x: 10000, y: 14022}
   vertical: 1
-  controlID: 72323
+  controlID: 81717
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -155,7 +155,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 222}
   m_MaxSize: {x: 8004, y: 4022}
   vertical: 0
-  controlID: 72324
+  controlID: 81718
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -175,8 +175,8 @@ MonoBehaviour:
     y: 0
     width: 254
     height: 316
-  m_MinSize: {x: 202, y: 222}
-  m_MaxSize: {x: 4002, y: 4022}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 6}
   m_Panes:
   - {fileID: 6}
@@ -210,7 +210,7 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 232}
+      scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
       m_ExpandedIDs: f08bfbff268efbff6811fcfff078fcff8c8ffcff9493fcffba06feff1a3dfeff38c8ffff18d9ffff14ecffff9ef3ffffd6f3ffff78fbffff
@@ -302,9 +302,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 3.262968, y: -0.065752596, z: -0.45927292}
+    m_Target: {x: 3.034151, y: 0.33366632, z: 0.48984993}
     speed: 2
-    m_Value: {x: 3.262968, y: -0.065752596, z: -0.45927292}
+    m_Value: {x: 3.034151, y: 0.33366632, z: 0.48984993}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -333,13 +333,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.16245984, y: -0.688191, z: 0.16245987, w: 0.688191}
+    m_Target: {x: 0, y: 0, z: 0, w: 1}
     speed: 2
-    m_Value: {x: 0.16245984, y: -0.688191, z: 0.16245987, w: 0.688191}
+    m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 1.2111802
+    m_Target: 2.11118
     speed: 2
-    m_Value: 1.2111802
+    m_Value: 2.11118
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -508,8 +508,8 @@ MonoBehaviour:
     y: 316
     width: 954
     height: 272
-  m_MinSize: {x: 232, y: 272}
-  m_MaxSize: {x: 10002, y: 10022}
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
   m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 12}
@@ -556,19 +556,19 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Resources
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Resources
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Zoheb\Desktop\ClashofKingsFinal
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 41.99951}
-    m_SelectedIDs: 082d0000
-    m_LastClickedID: 11528
+    m_SelectedIDs: 20350000
+    m_LastClickedID: 13600
     m_ExpandedIDs: 00000000082d000050330000ac330000663500006a350000dc37000034860000668600006a86000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -622,8 +622,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 6811fcff
-    m_LastClickedInstanceID: -257688
+    m_SelectedInstanceIDs: 9ef3ffff
+    m_LastClickedInstanceID: -3170
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000703100006a3700004c370000e03000009236000036aaffff00000000
     m_RenameOverlay:
@@ -707,7 +707,7 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: -257688
+  m_LastSelectedObjectID: -3170
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
